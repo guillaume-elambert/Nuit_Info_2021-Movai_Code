@@ -23,6 +23,8 @@ Pour plus de détails / quelques exemples, vous pouvez consulter https://movaico
 
 Un programme en C qui affiche le logo de Coddity en ASCII de manière très peu optimisée.
 
-Il s'uffit de compiler le projet et de le lancer (sous Linux il suffit d'utiliser la commande : `make`).
+Il s'uffit de compiler le projet et de le lancer. Pour cela :
+   * sous Linux : utiliser la commande `make`
+   * sous Windows : double cliquer sur `run.bat`
 
-Il faut ensuite s'armer de patience et si votre ordinateur met plus de 400 secondes, il est probable qu'il décide de recommencer de zéro.... 
+Il faut ensuite s'armer de patience et si votre ordinateur met plus de 100 secondes, il est probable qu'il décide de recommencer de zéro.... 
